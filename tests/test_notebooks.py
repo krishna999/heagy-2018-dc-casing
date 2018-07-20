@@ -5,7 +5,10 @@ import unittest
 NBDIR = os.path.sep.join(
     os.path.abspath(__file__).split(os.path.sep)[:-2] + ['notebooks']
 )
-# IGNORE = []
+IGNORE = [
+    1_DC_Flawed_Steel_Cased_Wells,
+    3_DC_Flawed_Steel_Cased_Wells_layer,
+]
 
 class TestNotebooks(unittest.TestCase):
 
