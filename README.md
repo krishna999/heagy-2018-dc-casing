@@ -12,7 +12,7 @@
 
 ## Overview
 
-This repository contains the notebooks used to generate the examples shown in "Direct Current Resistivity with Steel-Cased Wells" by [Lindsey J. Heagy](https://github.com/lheagy) and [Douglas W. Oldenburg](https://github.com/dougoldenburg). 
+This repository contains the notebooks used to generate the examples shown in "Direct current resistivity with steel-cased wells" by [Lindsey J. Heagy](https://github.com/lheagy) and [Douglas W. Oldenburg](https://github.com/dougoldenburg). 
 
 
 - [1_DC_Flawed_Steel_Cased_Wells.ipynb](notebooks/1_DC_Flawed_Steel_Cased_Wells.ipynb) 
