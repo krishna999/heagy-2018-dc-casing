@@ -5,6 +5,8 @@
 [![Build Status](https://travis-ci.org/simpeg-research/heagy-2018-dc-casing.svg?branch=master)](https://travis-ci.org/simpeg-research/heagy-2018-dc-casing)
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/simpeg-research/heagy-2018-dc-casing/master?filepath=index.ipynb)
 [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/simpeg-research/heagy-2018-dc-casing)
+[![License](https://img.shields.io/github/license/simpeg-research/heagy-2018-emcyl.svg)](https://github.com/simpeg-research/heagy-2018-emcyl/blob/master/LICENSE)
+[![SimPEG](https://img.shields.io/badge/powered%20by-SimPEG-blue.svg)](http://simpeg.xyz)
 
 <img src="figures/casing_integrity_basics.png" width=40% align="middle">
 
