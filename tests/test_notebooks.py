@@ -12,7 +12,7 @@ IGNORE = [
     "9_DC_Approximating_Steel_Cased_Wells_Cartesian"
 ]
 
-n_ignore = 3  # so we don't run over-time on travis, randomly ignore 2 notebooks
+n_ignore = 4  # so we don't run over-time on travis, randomly ignore 3 notebooks
 Test = testipynb.TestNotebooks(directory=NBDIR, timeout=2800)
 ignore_inds = np.random.choice(len(Test._nbnames) - len(IGNORE), n_ignore)
 test_nbnames = [t for t in Test._nbnames if t not in IGNORE]
