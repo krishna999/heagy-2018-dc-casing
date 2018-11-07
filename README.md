@@ -134,4 +134,4 @@ These notebooks are licensed under the [MIT License](/LICENSE) which allows acad
 
 ## Version
 
-Current version: 0.0.1
+Current version: 0.0.2
