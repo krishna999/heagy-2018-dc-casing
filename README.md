@@ -15,14 +15,14 @@
 
 These notebooks were used to perform the analysis and generate the figures shown _"Direct current resistivity with steel-cased wells"_ by [Lindsey Heagy](https://github.com/lheagy) and [Doug Oldenburg](https://github.com/dougoldenburg) submitted to Geophysical Journal International, as well as that shown in Chapter 4 of the thesis [Electromagnetic imaging of subsurface injections](https://github.com/lheagy/phd-thesis).
 
-We examine the use of DC resistivity for detecting flaws in a well in a casing integrity experiment, and examine factors influencing our ability to excite and detect a target at depth. 
+We examine the use of DC resistivity for detecting flaws in a well in a casing integrity experiment, and examine factors influencing our ability to excite and detect a target at depth.
 
 <img src="figures/casing_integrity_basics.png" width=60% align="middle">
 
 ## Contents
- 
-- [1_DC_Flawed_Steel_Cased_Wells.ipynb](notebooks/1_DC_Flawed_Steel_Cased_Wells.ipynb) 
-    - examines the feasibility of using DC resistivity for detecting a flaw in a steel-cased well and investigates the impact of parameters such as the background conductivity on our ability to detect a flaw from data collected at the surface. 
+
+- [1_DC_Flawed_Steel_Cased_Wells.ipynb](notebooks/1_DC_Flawed_Steel_Cased_Wells.ipynb)
+    - examines the feasibility of using DC resistivity for detecting a flaw in a steel-cased well and investigates the impact of parameters such as the background conductivity on our ability to detect a flaw from data collected at the surface.
     - This notebook was used to produce:
         - Figures 1, 2, 4, 5, 6, 9, 10, 11 in Heagy & Oldenburg (2018)
         - Figures 4.1, 4.2, 4.4, 4.5, 4.6, 4.9, 4.10 and 4.11 in the thesis
@@ -30,17 +30,17 @@ We examine the use of DC resistivity for detecting flaws in a well in a casing i
 - [2_DC_Flawed_Steel_Cased_Wells_Short_well.ipynb](notebooks/2_DC_Flawed_Steel_Cased_Wells_Short_well.ipynb)
     - looks at hte impact of the vertical extent of the flaw on the distribution of charges.
     - Used to produce:
-        - Figure 3 in Heagy & Oldenburg (2018) 
+        - Figure 3 in Heagy & Oldenburg (2018)
         - Figure 4.3 in the thesis
 
-- [3_DC_Flawed_Steel_Cased_Wells_layer](notebooks/3_DC_Flawed_Steel_Cased_Wells_layer) 
-    - looks at the impact of a conductive or resistive layer on our ability to detect a flaw. 
+- [3_DC_Flawed_Steel_Cased_Wells_layer](notebooks/3_DC_Flawed_Steel_Cased_Wells_layer)
+    - looks at the impact of a conductive or resistive layer on our ability to detect a flaw.
     - Used to create:
         - Figures 7, 8 in Heagy & Oldenburg (2018)
         - Figures 4.7 and 4.8 in the thesis
 
 - [4_DC_source_location.ipynb](notebooks/4_DC_source_location.ipynb)
-    - looks at the impact of the source electrode location on our ability to deliver current to depth. 
+    - looks at the impact of the source electrode location on our ability to deliver current to depth.
     - This was used to produce:
         - Figures 12, 13 in Heagy & Oldenburg (2018)
         - Figures 4.12 and 4.13 in the thesis
@@ -52,25 +52,25 @@ We examine the use of DC resistivity for detecting flaws in a well in a casing i
         - Tables 4.1, 4.2 and Figures 4.14, 4.15, 4.16, 4.17, 4.18 in the thesis
 
 - [6_DC_target_3D_cartesian.ipynb](notebooks/6_DC_target_3D_cartesian.ipynb)
-    - here, we use a born approximation approach to examine our ability to excite a target offset from the well. 
+    - here, we use a born approximation approach to examine our ability to excite a target offset from the well.
     - This notebook was used to produce:
         - Figures 19, 20, 21 in Heagy & Oldenburg (2018)
         - Figures 4.19, 4.20, 4.21 in the thesis
 
 - [7_DC_Approximating_Steel_Cased_Wells.ipynb](notebooks/7_DC_Approximating_Steel_Cased_Wells.ipynb)
-    - This notebook looks at approximations of a steel cased well by a solid cylinder, either with a conductivity equal to steel, or a conductivity that preserves the cross-sectional conductance of the well. 
+    - This notebook looks at approximations of a steel cased well by a solid cylinder, either with a conductivity equal to steel, or a conductivity that preserves the cross-sectional conductance of the well.
     - This notebook was used to produce:
         - Figures 22, 23 in Heagy & Oldenburg (2018)
         - Figures 4.22, 4.23 in the thesis
 
 - [8_DC_Approximating_Steel_Cased_Wells_layered_background.ipynb](notebooks/8_DC_Approximating_Steel_Cased_Wells_layered_background.ipynb)
-    - Similar to notebook 7, this notebook looks at approximations to the steel cased well by a solid cylinder in a layered background. 
+    - Similar to notebook 7, this notebook looks at approximations to the steel cased well by a solid cylinder in a layered background.
     - It was used to produce:
         - Figures 24, 25 in Heagy & Oldenburg (2018)
         - Figures 4.24, 4.25 in the thesis
 
 - [9_DC_Approximating_Steel_Cased_Wells_Cartesian.ipynb](notebooks/9_DC_Approximating_Steel_Cased_Wells_Cartesian.ipynb)
-    - This notbook looks at approximations of the steel cased well onto a cartesian mesh. 
+    - This notbook looks at approximations of the steel cased well onto a cartesian mesh.
     - This notebook was used to create:
         - Figure 26 in Heagy & Oldenburg (2018)
         - Figures 4.26 in the thesis
@@ -131,3 +131,7 @@ If you run into problems or bugs, please let us know by [creating an issue](http
 ## License
 
 These notebooks are licensed under the [MIT License](/LICENSE) which allows academic and commercial re-use and adaptation of this work.
+
+## Version
+
+Current version: 0.0.1
