@@ -8,6 +8,7 @@ NBDIR = os.path.sep.join(
 )
 IGNORE = [
     "1_DC_Flawed_Steel_Cased_Wells",
+    "2_DC_Flawed_Steel_Cased_Wells_Short_well",
     "3_DC_Flawed_Steel_Cased_Wells_layer",
     "6_DC_target_3D_cartesian",
     "9_DC_Approximating_Steel_Cased_Wells_Cartesian"
