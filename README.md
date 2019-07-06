@@ -1,4 +1,4 @@
-**| [Overview](#overview) | [Launching the notebooks](#launching-the-notebooks) | [Running the notebooks](#running-the-notebooks) | [Issues](#issues) | [License](#license) |**
+**| [Overview](#overview) | [Citation](#citation) | Launching the notebooks](#launching-the-notebooks) | [Running the notebooks](#running-the-notebooks) | [Issues](#issues) | [License](#license) |**
 
 # heagy-2018-dc-casing
 
@@ -13,11 +13,29 @@
 
 ## Overview
 
-These notebooks were used to perform the analysis and generate the figures shown _"Direct current resistivity with steel-cased wells"_ by [Lindsey Heagy](https://github.com/lheagy) and [Doug Oldenburg](https://github.com/dougoldenburg) submitted to Geophysical Journal International, as well as that shown in Chapter 4 of the thesis [Electromagnetic imaging of subsurface injections](https://github.com/lheagy/phd-thesis).
+These notebooks were used to perform the analysis and generate the figures shown [_"Direct current resistivity with steel-cased wells"_](https://doi.org/10.1093/gji/ggz281) by [Lindsey Heagy](https://github.com/lheagy) and [Doug Oldenburg](https://github.com/dougoldenburg) published in Geophysical Journal International, as well as that shown in Chapter 4 of the thesis [Electromagnetic imaging of subsurface injections](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0374170).
 
 We examine the use of DC resistivity for detecting flaws in a well in a casing integrity experiment, and examine factors influencing our ability to excite and detect a target at depth.
 
 <img src="figures/casing_integrity_basics.png" width=60% align="middle">
+
+## Citation
+
+Heagy, L. J., & Oldenburg, D. W. (2018). Direct current resistivity with steel-cased wells. Geophysical Journal International.
+
+```
+@article{10.1093/gji/ggz281,
+    author = {Heagy, Lindsey J and Oldenburg, Douglas W},
+    title = "{Direct current resistivity with steel-cased wells}",
+    journal = {Geophysical Journal International},
+    year = {2019},
+    month = {06},
+    issn = {0956-540X},
+    doi = {10.1093/gji/ggz281},
+    url = {https://doi.org/10.1093/gji/ggz281},
+    eprint = {http://oup.prod.sis.lan/gji/advance-article-pdf/doi/10.1093/gji/ggz281/28836831/ggz281.pdf},
+}
+```
 
 ## Contents
 
@@ -134,4 +152,4 @@ These notebooks are licensed under the [MIT License](/LICENSE) which allows acad
 
 ## Version
 
-Current version: 0.0.2
+Current version: 0.0.3
