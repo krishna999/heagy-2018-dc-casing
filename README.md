@@ -1,4 +1,4 @@
-**| [Overview](#overview) | [Citation](#citation) | Launching the notebooks](#launching-the-notebooks) | [Running the notebooks](#running-the-notebooks) | [Issues](#issues) | [License](#license) |**
+**| [Overview](#overview) | [Citation](#citation) | [Launching the notebooks](#launching-the-notebooks) | [Running the notebooks](#running-the-notebooks) | [Issues](#issues) | [License](#license) |**
 
 # heagy-2018-dc-casing
 
